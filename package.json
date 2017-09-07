@@ -1,0 +1,19 @@
+{
+  "name": "teelee",
+  "version": "1.0.0",
+  "description": "Tee Lee Popcorn",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "MIT",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "compression": "^1.7.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.4",
+    "helmet": "^3.8.1",
+    "pug": "^2.0.0-rc.3"
+  }
+}
