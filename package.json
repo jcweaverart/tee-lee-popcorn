@@ -1,13 +1,10 @@
 {
   "name": "teelee",
   "version": "1.0.0",
-  "engines": {
-    "node": "8.1.4"
-  },
   "description": "Tee Lee Popcorn",
   "main": "app.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "npm start"
   },
   "author": "MIT",
   "license": "MIT",
