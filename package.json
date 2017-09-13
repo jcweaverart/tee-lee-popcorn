@@ -7,7 +7,7 @@
     "node": "v8.1.4"
   },
   "scripts": {
-    "start": "npm app.js"
+    "start": "node app.js"
   },
   "author": "MIT",
   "license": "MIT",
