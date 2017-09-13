@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Tee Lee Popcorn",
   "main": "app.js",
+  "engines": {
+    "node": "v8.1.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
   "author": "MIT",
   "license": "MIT",
   "dependencies": {
